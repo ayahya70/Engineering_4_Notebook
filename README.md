@@ -15,5 +15,8 @@ My Engineering 4 Notebook things
  
  
  ### quadratic solver code
- 
  I created a quadratic solver that takes in 3 sets of numbers to plug in then it would slove it self to find the roots
+ 
+ 
+ ### String_Loops
+ 
