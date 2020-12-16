@@ -20,3 +20,9 @@ My Engineering 4 Notebook things
  
  ### String_Loops
  
+ 
+ 
+ 
+ ### HangMan
+ THis code takes in a word and people have to guess what the word is and if they get one of the letters wrong then one of the body parts appear. If they keep on guessing and not getting a single character of the word the body parts will appear intil it makes a shape of a person then the game ends.
+ 
