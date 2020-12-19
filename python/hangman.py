@@ -41,7 +41,7 @@ while guesses != word_split:  # loop until the guess matches the word
         mistakes += 1
 
     if mistakes >= MAX_MISTAKES:  # Too many mistakes!
-        print(f"You lose idiot!! The word was {word}")
+        print(f"You lose !! The word was {word}")
         quit()  # exit the program
 
 
